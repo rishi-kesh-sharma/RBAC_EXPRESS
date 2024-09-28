@@ -1,18 +1,18 @@
-# RBAC_EXPRESS
+#### RBAC_EXPRESS
 
 This project includes the feature for Role Based Access Control .
 
-# Modules
+#### Modules
 
 * Auth
 * User
 
-# Middlewares
+#### Middlewares
 
 * Vefify Token
 * Authorize Roles
 
-# External Dependencies
+#### External Dependencies
 
 * express
 * JsonWebToken
@@ -20,7 +20,7 @@ This project includes the feature for Role Based Access Control .
 * mongoose
 * dotenv
 
-# PROJECT SETUP
+#### PROJECT SETUP
 
 * git clone `<repository url>`
 * cd <repository_name>
